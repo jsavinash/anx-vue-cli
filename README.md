@@ -1,2 +1,2 @@
-# anx-vue-cli-
+# anx-vue-cli
 Vue CLI for web application.
